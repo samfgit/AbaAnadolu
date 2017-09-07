@@ -9,192 +9,63 @@
 	<meta name="author" content="">
 
 	<title>Bare - Start Bootstrap Template</title>
-
+	
+	<style>
+		@font-face { font-family: OpenSans; src: url('vendor/fonts/OpenSans-Regular.ttf'); } 
+		@font-face { font-family: OpenSans-SemiBold; src: url('vendor/fonts/OpenSans-SemiBold.ttf'); } 
+	</style>
+	
 	<!-- Bootstrap core CSS -->
 	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 	
 	<!-- Font Awesome -->
-	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
 
 	<!-- Custom styles for this template -->
+	<link rel="stylesheet" href="css/generic.css">
+	<link rel="stylesheet" href="css/navbar.css">
+	<link rel="stylesheet" href="css/stories.css">
+
 	<!-- Custom styles for this template -->
 	<style>
-		@font-face { font-family: OpenSans; src: url('fonts/OpenSans-Regular.ttf'); } 
-		@font-face { font-family: OpenSans-SemiBold; src: url('fonts/OpenSans-SemiBold.ttf'); } 
-
-		body {
-			/*padding-top: 54px;*/
-		}
-		@media (min-width: 992px) {
-			body {
-				padding-top: 56px;
-			}
-		}
-		
-		.cont-max {
-			margin-right: 0px;
-			margin-left: 0px;
-			padding-right: 0px;
-			padding-left: 0px;
-		}
-		#bodyImg, #navImg, #nav2Img, #footerImg{
-			max-width: 100%;
-		}
-		#nav2Img{
-			left: 0px;
-			top: 0px;
-		}
-		.navbar-nav{
-			max-height: 20px;
-		}
-		.nav2 {
-			/*height: 150px;*/
-		}
-		.container {
-
-			max-width: 1300px;
-		}
-		.body-cont {
-			/*margin-top: 118px;*/
-		}
-		
-		/* Top Logo Styling */
-		img#top-logo{
-			height: 50px;
-		}
-		
-		.navbar-brand{
-			padding-top: 0px;
-		}
-
-		/*Top Company Profile*/
-		.navbar-brand.navbar-Profile{
-			white-space: normal;
-			text-align: center;
-			vertical-align: text-center;
-			margin: 0px;
-			padding: 0px;
-			padding-top: 4px;
-			font-size: 13px;
-			background-color: #9c1006;
-			height: 50px;
-			width: 80px;
-		}
-
-		/* Navbar Styling */
-		nav.navbar.navbar-up{
-			height: 75px;
-			/*nav-bar background-color: #3c3c3b*/
-			background-color: #3c3c3b!important;
-			padding-bottom: 0px;
-		}
-		nav.navbar.navbar-down{
-			height: 55px;
-			background-color: #ece9da!important;
-			padding-bottom: 0px;
-			padding-top: 20px;
-		}
-
-		nav.navbar.navbar-down .flex-container.pull-right {
-			right: 0px;
-			margin-left: auto;
-			margin-right: 128px;
-		}
-		
-		div#navbarResponsive {
-			height: 40px;
-			margin-top: 30px;
-			/* position: absolute; */
-			bottom: 0px;
-			position: relative;
-			/* margin-left: -500px; */
-		}
-
-		nav.navbar.navbar-up ul.navbar-nav.ml-auto {
-			/*nav-bar-items background-color: #575756*/
-			background-color: #575756;
-			height: 35px;
-			max-height: 35px;
-			margin-bottom: 0px;
-			padding-bottom: 0px;
-		}
-
-		nav.navbar.navbar-up li.nav-item:hover {
-			background-color: #1d1d1b;
-		}
-
-		.navbar-dark .navbar-nav .nav-link:hover {
-			color: white;
-		}
-
-		nav.navbar.navbar-up a.nav-link {
-			color: white;
-			font-weight: 500;
-			font-size: 13px;
-			font-family: OpenSans;
-		}
-
-		nav.navbar.navbar-up li.nav-item {
-			padding-left: 8px;
-			padding-right: 8px;
-		}
-
-		nav.navbar.navbar-up li.nav-item.nav-item-bordered {
-			border-left: #3c3c3b 2px solid;
-			padding-left: 2px;
-			padding-right: 2px;
-		}
-
-
-		nav.navbar.navbar-down ul.navbar-nav.ml-auto {
-			/*nav-bar-items background-color: #575756*/
-			/*background-color: #575756;*/
-			height: 35px;
-			max-height: 35px;
-			margin-bottom: 0px;
-			padding-bottom: 0px;
-		}
-		
-
-		nav.navbar.navbar-down a.nav-link:hover {
-			/*background-color: #1d1d1b;*/
-			color: black;
-		}
-
-		nav.navbar.navbar-down a.nav-link {
-			color: #00b9ee;
-			font-weight: 500;
-			font-size: 12px;
-			font-family: OpenSans;
-		}
-
-		nav.navbar.navbar-down li.nav-item.nav-item-bordered {
-			border-left: #3c3c3b 2px solid;
-		}
 		/********* TEST ***********/
-		/*Down nav*/
-		.navbar-doublerow .navbar-down{
-			height: 20px;
+		.slider-place-holder{
+			width: 100%;
+			height: 500px;
+			background-color: black;
 		}
-		.navbar-doublerow .navbar-down ul>li>a{
-			/*Menu items*/
-			font-size: 15px;
-			color: #28b8ce;
-		}
-		.navbar-doublerow .navbar-down ul>li>a:hover{
-			/*menu hover*/
-			border-bottom: 1px solid #60B078;
-			color: #60B078;
+		
+		.slider-img {
+			width: 100%;
+			height: 500px;
 		}
 
+		.buttom-img-container{
+			margin-top: 15px;
+			margin-bottom: 15px;
+			padding: 0px;
+			position: relative;
+		}
+
+		.buttom-img{
+			width: 100%;
+		}
+
+		.button-img-text{
+			position: absolute;
+			top: 50px;
+			left: 50px;
+			font-family: OpenSans-SemiBold;
+			font-size: 30px;
+		}
 	</style>
 
 </head>
 
 <body>
-	<!-- Navigation -->
+	<!-- Navigation Up -->
 	<nav class="navbar navbar-up navbar-expand-lg navbar-dark bg-dark fixed-top">
-		<div class="container">
+		<div class="container no-pad-container">
 			<a class="navbar-brand" href="#"><img src="img/aba logo.png" id="top-logo"></a>
 			<a class="navbar-brand navbar-Profile" href="#">Company Profile</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -230,9 +101,9 @@
 		</div>
 	</nav>
 
-	<!-- down nav -->
+	<!-- Navigation Down -->
 	<nav class="navbar navbar-down navbar-expand-lg">
-		<div class="container">
+		<div class="container no-pad-container">
 			<div class="flex-container pull-right">
 				<ul class="nav navbar-nav ml-auto flex-item hidden-xs pull-right">
 					<li class="nav-item"><a  class="nav-link" href="#">Hakkımızda</a></li>
@@ -247,13 +118,66 @@
 	<!-- Page Content -->
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-12 text-center">
-				<h1 class="mt-5">A Bootstrap 4 Starter Template</h1>
-				<p class="lead">Complete with pre-defined file paths and responsive navigation!</p>
-				<ul class="list-unstyled">
-					<li>Bootstrap 4.0.0-beta</li>
-					<li>jQuery 3.2.1</li>
-				</ul>
+			<!-- Image Slider -->
+			<div class="col-lg-12 slider-place-holder">
+				<!-- <img class="slider-img img-full" src="img/slide-img-1.png"> -->
+			</div>
+
+			<!-- Stories -->
+			<div class="container">
+				<div class="row">
+					<div class="main-story story-left col-md-6">
+						<img class="story-img" src="img/story-ph.png" >
+						<div class="story-body">
+							<h3 class="story-head">Doğruluk: Benim en kıymetli erdemim</h3>
+							<p class="story-text">uspendisse a arcu sem, nec fertkln pytum urna. Vestibulum et lecgmlmem mea rmatus non dui vestibulum tristll elak amlüique sed tum urna. Vestibulum et lecgmlmem mea rmatus</p>
+							<a class="story-link pull-right" href="">
+								<i class="fa fa-play fa-green" aria-hidden="true"></i>&ensp;LEARN MORE
+							</a>
+						</div>
+					</div>
+					<div class="main-story story-right col-md-6">
+						<img class="story-img" src="img/story-ph.png" >
+						<div class="story-body">
+							<h3 class="story-head">Doğruluk: Benim en kıymetli erdemim</h3>
+							<p class="story-text">uspendisse a arcu sem, nec fertkln pytum urna. Vestibulum et lecgmlmem mea rmatus non dui vestibulum tristll elak amlüique sed tum urna. Vestibulum et lecgmlmem mea rmatus</p>
+							<a class="story-link pull-right" href="">
+								<i class="fa fa-play fa-green" aria-hidden="true"></i>&ensp;LEARN MORE
+							</a>
+						</div>
+					</div>
+					<div class="main-story story-left col-md-6">
+						<img class="story-img" src="img/story-ph.png" >
+						<div class="story-body">
+							<h3 class="story-head">Doğruluk: Benim en kıymetli erdemim</h3>
+							<p class="story-text">uspendisse a arcu sem, nec fertkln pytum urna. Vestibulum et lecgmlmem mea rmatus non dui vestibulum tristll elak amlüique sed tum urna. Vestibulum et lecgmlmem mea rmatus</p>
+							<a class="story-link pull-right" href="">
+								<i class="fa fa-play fa-green" aria-hidden="true"></i>&ensp;LEARN MORE
+							</a>
+						</div>
+					</div>
+					<div class="main-story story-right col-md-6">
+						<img class="story-img" src="img/story-ph.png" >
+						<div class="story-body">
+							<h3 class="story-head">Doğruluk: Benim en kıymetli erdemim</h3>
+							<p class="story-text">uspendisse a arcu sem, nec fertkln pytum urna. Vestibulum et lecgmlmem mea rmatus non dui vestibulum tristll elak amlüique sed tum urna. Vestibulum et lecgmlmem mea rmatus</p>
+							<a class="story-link pull-right" href="">
+								<i class="fa fa-play fa-green" aria-hidden="true"></i>&ensp;LEARN MORE
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- Bottom Image -->
+			<div class="buttom-img-container col-lg-12">
+				<img class="buttom-img" src="img/buttom-img.png" >
+				<p class="button-img-text">
+					İşlevleri aynı olan<br>
+					öyle ürünler vardır ki<br>
+					aralarındaki farkı ancak<br>
+					yaşadığınızda anlarsınız<br>
+				</p>
 			</div>
 		</div>
 	</div>

@@ -1,0 +1,44 @@
+/********* Stories ***********/
+.main-story {
+	margin-top:15px;
+	margin-bottom:15px;
+}
+.main-story.story-left{
+	padding-left: 0px;
+}
+.main-story.story-right {
+	padding-right: 0px;
+}
+
+.story-img {
+	width: 100%;
+}
+
+.story-body {
+	margin-top:20px;
+	margin-bottom:5px;
+}
+
+.story-head {
+	max-width: 100%;
+	font-size: 20px;
+	
+}
+.story-text {
+	max-width: 100%;
+	font-size: 14px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.story-link {
+	background-color: #a53d94;
+	border: #8b3e7e 1px solid;
+}
+
+a.story-link {
+	color: white;
+	text-decoration: none;
+	padding: 5px;
+}
+
