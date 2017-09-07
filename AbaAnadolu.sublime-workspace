@@ -1,0 +1,867 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Line",
+				"line_item"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"line",
+				"line_item"
+			],
+			[
+				"line_",
+				"line_items_url"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"remove",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"log",
+				"log\tconsole.log('')"
+			],
+			[
+				"wind",
+				"windH"
+			],
+			[
+				"stat",
+				"stateTrafficEmergencyEndPulse"
+			],
+			[
+				"tot",
+				"total_blue_emergency_end_pulse"
+			],
+			[
+				"curr",
+				"current_blue_emergency_end_pulse"
+			],
+			[
+				"curre",
+				"currentPulse"
+			],
+			[
+				"time_blue_emergency_",
+				"time_blue_emergency_end_pulse"
+			],
+			[
+				"stateTrafficEmergency",
+				"stateTrafficEmergencyEndPulse"
+			],
+			[
+				"stateTrafficEmergency2",
+				"stateTrafficEmergency2ndStage"
+			],
+			[
+				"las",
+				"lastStateBeforeEmergency"
+			],
+			[
+				"isIn",
+				"isInEmergencyGroup"
+			],
+			[
+				"state",
+				"stateTrafficEmergencyReceived"
+			],
+			[
+				"statetra",
+				"stateTrafficEmergency2ndStage"
+			],
+			[
+				"tra",
+				"trafficEmergencyStateGroup"
+			],
+			[
+				"traff",
+				"trafficNormalStateGroup"
+			],
+			[
+				"fil",
+				"filteredItems"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"co",
+				"col-md-10"
+			],
+			[
+				"filtere",
+				"filteredMenuItems"
+			],
+			[
+				"menu",
+				"menuItems"
+			],
+			[
+				"filter",
+				"filter\t.filter() function"
+			],
+			[
+				"foo",
+				"foodCtrl"
+			],
+			[
+				"sear",
+				"searchTerm"
+			],
+			[
+				"bought",
+				"boughtItems"
+			],
+			[
+				"shop",
+				"ShoppingListCheckOff"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"Lu",
+				"LunchCheckController"
+			],
+			[
+				"luc",
+				"LunchCheckController"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"Per",
+				"perspective"
+			],
+			[
+				"logo",
+				"logoTop"
+			],
+			[
+				"page",
+				"pageX"
+			],
+			[
+				"pag",
+				"pageY"
+			],
+			[
+				"last",
+				"lastDownY"
+			],
+			[
+				"la",
+				"lastDownX"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"yp",
+				"yPer"
+			],
+			[
+				"el",
+				"elTransform"
+			],
+			[
+				"hh",
+				"hHeight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"template",
+				"template\tTag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"typed",
+				"typed-div"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-attachment"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"btn",
+				"btn-xl"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"AC-QR",
+				"AC-QR_logo"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"ini",
+				"initial"
+			],
+			[
+				"bt",
+				"btn-default"
+			],
+			[
+				"class",
+				"class\tAttr"
+			],
+			[
+				"span",
+				"span\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sty",
+				"styles"
+			],
+			[
+				"date_time_get",
+				"date_timestamp_get"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"visi",
+				"visible-xs"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3107,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index0.html",
+			"settings":
+			{
+				"buffer_size": 1901,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "Snippet: log",
+		"selected_items":
+		[
+			[
+				"Snippet: log",
+				"Snippet: console.log('')"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: add \t",
+				"Package Control: Add Repository"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/controllers/line_items_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/edit.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/index.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/models/line_item.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/_line_item.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/carts/_cart.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/show.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/log/test.log",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test.result",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/AbaAnadolu Website/index.html",
+		"/D/m/Programming/Agile Ruby Source Code/depot/config/routes.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/_form.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/db/seeds.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/store/index.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/controllers/products_controller_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/controllers/products_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/controllers/line_items_controller_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/rails5-code/code/rails50/depot_v/test/controllers/line_items_controller_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/controllers/application_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/controllers/carts_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/controllers/carts_controller_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/line_items/create.js.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/layouts/application.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/assets/stylesheets/depot.css",
+		"/D/m/Programming/Agile Ruby Source Code/rails5-code/code/rails50/depot_r/app/controllers/line_items_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/rails5-code/code/rails50/depot_e/test/controllers/products_controller_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/controllers/store_controller_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/products/index.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/fixtures/products.yml",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/fixtures/line_items.yml",
+		"/D/m/Programming/Agile Ruby Source Code/depot/db/schema.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/db/test.sqlite3-journal",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/models/line_item_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/models/product.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/helpers/line_items_helper.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/models/cart.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/helpers/application_helper.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/carts/show.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/log/development.log",
+		"/D/m/Programming/Agile Ruby Source Code/depot/tmp/pids/server.pid",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/controllers/store_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/db/migrate/20170829075255_combine_items_in_cart.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/db/migrate/20170828123314_add_quantity_to_line_items.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/db/migrate/20170828065738_create_carts.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/db/migrate/20170824075657_create_products.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/products/_form.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/config/environment.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/config.ru",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/assets/stylesheets/application.css",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/products/index.json.jbuilder",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/products/edit.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/app/views/products/new.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/models/product_test.rb",
+		"/D/m/Programming/Agile Ruby Source Code/depot/config/database.yml",
+		"/D/m/Programming/Agile Ruby Source Code/depot/test/test_helper.rb",
+		"/D/m/Programming/Agile Ruby Source Code/.git/config",
+		"/D/m/Programming/Agile Ruby Source Code/depot/public/stylesheets/depot.css",
+		"/D/m/Programming/Agile Ruby Source Code/rails5-code/code/rails50/depot_b/db/seeds.rb",
+		"/D/m/Programming/Agile Ruby Source Code/First App/demo/app/views/say/goodbye.html.erb",
+		"/D/m/Programming/Agile Ruby Source Code/First App/demo/app/controllers/say_controller.rb",
+		"/D/m/Programming/Agile Ruby Source Code/First App/demo/app/views/say/hello.html.erb",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Aba Anadolu/startbootstrap-bare-gh-pages/startbootstrap-bare-gh-pages/index.html",
+		"/D/m/Programming/Ruby Coursera/Course 5/RubyCourse5-AngularJS-Mod4HW/app.js",
+		"/D/m/Programming/Ruby Coursera/Course 5/RubyCourse5-AngularJS-Mod4HW/foundItems.html",
+		"/D/m/Programming/Ruby Coursera/Course 5/RubyCourse5-AngularJS-Mod4HW/index.html",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/HTML BU working d3/index.html",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/temp/Factory br 5.svg",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/Optimized SVG/pipes 1-covers opt.svg",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/HTML BU working me - mod/js/abatrade.js",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/HTML BU working me - mod/index.html",
+		"/D/m/Programming/fullstack-course5/assignments/assignment4/Assignment-4.md",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/HTML BU working me - mod/old/index bu.html",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/temp/Factory br 4.svg",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/Optimized SVG/Factory br 4 Op.svg",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/SVG/Bioreactor pipes w factory 2 O.svg",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/SVG/Bioreactor Optimized3 test.svg",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/SVG/Bioreactor pipes Optimized.svg",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/SVG/Bioreactor Optimized3 test.html",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/html/js/abatrade.js",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/SVG/Bioreactor pipes Optimized 2.svg",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/html/index.html",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/other/aba trade exp/js/abatrade.js",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/other/aba trade exp/index.html",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/SVG/Bioreactor Optimized.svg",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Designs/Other/Factory Plans/SVG/Bioreactor Optimized2 test.svg",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Mavi Işık - 8 sings/Program/traffic_IR/Traffic IR Final/TrafficIRFinal.ino",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Mavi Işık - 8 sings/Program/traffic_IR/traffic_IR.ino/traffic_IR.ino.ino",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Mavi Işık - 8 sings/Program/traffic_IR/tfc_IR_Atm32/tfc_IR_Atm32 - Copy.ino",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Mavi Işık - 8 sings/Program/traffic_IR/tfc_IR_Atm32/tfc_IR_Atm32.ino",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Mavi Işık - 8 sings/Temp/eagle_lib/Maker-Tools-Eagle-Libraries-master/README.md",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Mavi Işık - 8 sings/Program/traffic_IR_for_atmega32/traffic_IR_for_atmega32 not working.ino",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Mavi Işık - 8 sings/Program/traffic_IR/traffic_IR.ino",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Mavi Işık - 8 sings/Program/traffic_IR_for_atmega32/traffic_IR.ino",
+		"/C/Program Files (x86)/Arduino/hardware/ATMega32/atmel/variants/mega32/pins_arduino.h",
+		"/C/Users/Aykut ARI/Downloads/MightyCore-master/README.md",
+		"/C/Program Files (x86)/Arduino/hardware/ATMega32/atmel/boards.txt",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Other/Arduino on atmega32/ATmega32-Arduino-master/ATMega32/boards.txt",
+		"/C/Program Files (x86)/Arduino/hardware/arduino/avr/boards.txt",
+		"/C/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega32/pins_arduino.h",
+		"/C/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega/pins_arduino.h",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Other/Arduino on atmega32/ATmega32-Arduino-master/ATMega32/variants/mega32/pins_arduino.h",
+		"/C/Users/Aykut ARI/Desktop/boards.txt",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Mavi Işık - 8 sings/Program/traffic.c",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Mavi Işık - 8 sings/Program/Old/traffic - obselete.c",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Mavi Işık - 8 sings/Program/Old/traffic - no interruption.c",
+		"/C/Users/Aykut ARI/Desktop/ABAsoft/Electronic Projects/Mavi Işık - 8 sings/traffic.c",
+		"/C/Users/Aykut ARI/Desktop/traffic.c",
+		"/D/m/Programming/fullstack-course5/examples/Lecture36/src/app.js",
+		"/C/Program Files/Adobe/Adobe InDesign CC 2017/Scripts/Scripts Panel/Samples/VBScript/PlaceMultipagePDF.vbs",
+		"/D/m/Programming/Ruby Coursera/Course 5/RubyCourse5-AngularJS-Mod4HW/src/menuapp.module.js",
+		"/D/m/Programming/Ruby Coursera/Course 5/RubyCourse5-AngularJS-Mod4HW/src/data.module.js",
+		"/D/m/Programming/Ruby Coursera/Course 5/RubyCourse5-AngularJS-Mod4HW/src/menudata.service.js",
+		"/D/m/Programming/fullstack-course5/examples/Lecture70/src/common/loading/loading.component.js",
+		"/D/m/Programming/fullstack-course5/examples/Lecture56/src/common/common.module.js",
+		"/D/m/Programming/fullstack-course5/examples/Lecture56/src/common/menu.service.js",
+		"/D/m/Programming/fullstack-course5/examples/Lecture56/src/restaurant.module.js",
+		"/D/m/Programming/fullstack-course5/examples/Lecture51/src/public/public.routes.js",
+		"/D/m/Programming/fullstack-course5/examples/Lecture70/spec/admin/menu-item/menu-item-admin.component.spec.js",
+		"/D/m/Programming/fullstack-course5/examples/Lecture67/src/common/menu.service.js",
+		"/D/m/Programming/fullstack-course5/examples/Lecture67/src/common/common.module.js",
+		"/D/m/Programming/fullstack-course5/examples/Lecture57/src/common/menu.service.js",
+		"/D/m/Programming/fullstack-course5/examples/Lecture55/src/common/menu.service.js",
+		"/D/m/Programming/Ruby Coursera/Course 5/RubyCourse5-AngularJS-Mod3HW/app.js",
+		"/D/m/Programming/fullstack-course5/examples/Lecture30/shoppingList.html",
+		"/D/m/Programming/fullstack-course5/examples/Lecture30/index.html",
+		"/D/m/Programming/fullstack-course5/examples/Lecture30/app.js",
+		"/D/m/Programming/Ruby Coursera/Course 5/RubyCourse5-AngularJS-Mod3HW/foundItems.html",
+		"/D/m/Programming/Ruby Coursera/Course 5/RubyCourse5-AngularJS-Mod3HW/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"price",
+			"line_items",
+			"output",
+			"h3",
+			"\n\t<% %>",
+			"z",
+			"251-261_271",
+			"38",
+			"pipeFlow",
+			"stroke-dasharray:none;",
+			"stroke-dasharray: none;",
+			"stroke-dasharray: none;stroke-dashoffset: 0;",
+			"stroke-dasharray: none; stroke-dashoffset: 0;",
+			"id=\"idPf",
+			"id=\"idpf",
+			"flow",
+			"svglogo",
+			"z",
+			"id=\"idBr",
+			"idbr",
+			"defs",
+			"kkkk",
+			"kkkkk",
+			"layer",
+			"layer1",
+			"layer",
+			"elmove",
+			"svgLogo",
+			"bioFill",
+			"-4.10507,-1.",
+			"linearGradient29110",
+			"linearGradient29104",
+			"#a",
+			"stateTrafficEmergencyReceived",
+			"stateTrafficEmergencyEndPulse",
+			"NormalGroup",
+			"const static uint8_t SDA",
+			"const static uint8_t SDA = 8",
+			"log",
+			"scalar",
+			"path",
+			"logo",
+			"rgb",
+			"intro",
+			".intro",
+			"aos",
+			"offset",
+			"contact_me",
+			"switched",
+			"dinbek",
+			"block",
+			"page",
+			"aboutpage",
+			"navbar-header",
+			"download-div",
+			"download",
+			"download-div",
+			"style",
+			"header2",
+			"#header2",
+			"400px",
+			"unbrea",
+			"#footerlogo",
+			"#footerlogo {",
+			"\n#footerlogo {",
+			"400p",
+			".navbar-right",
+			".navbar-default .nav > li > a",
+			"menu",
+			"header3",
+			"homeHeading2Btn",
+			".slick-slide, .header-content, .slick-cloned",
+			".homeheading",
+			".header-content .header-content-inner .homeHeading",
+			".homeheading",
+			"homehead",
+			"homeheading1",
+			"homeheading2",
+			"homeheading1",
+			"header1",
+			"reveal",
+			"dropdown-menu",
+			"reveal",
+			"sr-button",
+			"margin-top",
+			"span",
+			".navbar-default.affix-top .nav > li > a",
+			"homeHeadingBtn",
+			"heading",
+			"row",
+			".navbar-header {\n}",
+			"class=\"row row-eq-height\"",
+			"hidden",
+			"slick",
+			"container-fluid",
+			"overflow",
+			"overflow: hid",
+			"body",
+			"homeHeading1Btn",
+			"overflow",
+			"mark",
+			"on mobile ",
+			"on mobile",
+			"mobile",
+			"cur",
+			"homeHeading1Btn",
+			"cursor",
+			"\n  display: inline-block;",
+			"curs",
+			"span",
+			"mark",
+			"heading",
+			"@media",
+			"companylogo",
+			"compan",
+			"homeHeadingSub",
+			"span",
+			"3",
+			"service",
+			"our ser",
+			"back",
+			"refere",
+			"page-head",
+			"pagehead",
+			".navbar-default.affix .nav > li > a",
+			".navbar-default.affix",
+			" .intro-header ",
+			"homeHeading1Btn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"class=\"pipeFlow\" \n              id=\"idPf",
+			"class=\"pipeFlow\" \n         id=\"idPf",
+			"class=\"bioReact\" \n         id=\"idBr",
+			"class=\"bioReact\" \n    id=\"idBr",
+			"class=\"bioReact\" \nid=\"idBr",
+			"class=\"bioReact\" id=\"idBr \n",
+			" \n",
+			"homeHeading1",
+			"#download_bar",
+			"<li><a href=\"abaitech.html\">Our Vision</a></li>",
+			"<li><a href=\"abaitech.html#vision\">Our Mission</a></li>",
+			"conatctPage",
+			"<div class=\"text-center ref-info-xs",
+			"hvr-fade",
+			"project-category",
+			"shutter-out-vertical",
+			"rectangle-out",
+			"portfolio-box-caption hvr-radial-out\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								987,
+								987
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1089.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index0.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								903,
+								903
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 261.0
+	},
+	"pinned_build_system": "",
+	"project": "AbaAnadolu.sublime-project",
+	"replace":
+	{
+		"height": 102.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"somePath"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

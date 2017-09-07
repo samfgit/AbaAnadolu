@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<title>Bare - Start Bootstrap Template</title>
+
+	<!-- Bootstrap core CSS -->
+	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+
+	<!-- Custom styles for this template -->
+	<!-- Custom styles for this template -->
+	<style>
+		@font-face { font-family: OpenSans; src: url('fonts/OpenSans-Regular.ttf'); } 
+		@font-face { font-family: OpenSans-SemiBold; src: url('fonts/OpenSans-SemiBold.ttf'); } 
+
+		body {
+			/*padding-top: 54px;*/
+		}
+		@media (min-width: 992px) {
+			body {
+				padding-top: 56px;
+			}
+		}
+		
+		.cont-max {
+			margin-right: 0px;
+			margin-left: 0px;
+			padding-right: 0px;
+			padding-left: 0px;
+		}
+		#bodyImg, #navImg, #nav2Img, #footerImg{
+			max-width: 100%;
+		}
+		#nav2Img{
+			left: 0px;
+			top: 0px;
+		}
+		.navbar-nav{
+			max-height: 20px;
+		}
+		.nav2 {
+			/*height: 150px;*/
+		}
+		.container {
+
+			max-width: 1300px;
+		}
+		.body-cont {
+			/*margin-top: 118px;*/
+		}
+		
+		/* Top Logo Styling */
+		img#top-logo{
+			height: 50px;
+		}
+		
+		.navbar-brand{
+			padding-top: 0px;
+		}
+
+		/*Top Company Profile*/
+		.navbar-brand.navbar-Profile{
+			white-space: normal;
+			text-align: center;
+			vertical-align: text-center;
+			margin: 0px;
+			padding: 0px;
+			padding-top: 4px;
+			font-size: 13px;
+			background-color: #9c1006;
+			height: 50px;
+			width: 80px;
+		}
+
+		/* Navbar Styling */
+		nav.navbar.navbar-up{
+			height: 75px;
+			/*nav-bar background-color: #3c3c3b*/
+			background-color: #3c3c3b!important;
+			padding-bottom: 0px;
+		}
+		nav.navbar.navbar-down{
+			height: 55px;
+			background-color: #ece9da!important;
+			padding-bottom: 0px;
+			padding-top: 20px;
+		}
+
+		nav.navbar.navbar-down .flex-container.pull-right {
+			right: 0px;
+			margin-left: auto;
+			margin-right: 128px;
+		}
+		
+		div#navbarResponsive {
+			height: 40px;
+			margin-top: 30px;
+			/* position: absolute; */
+			bottom: 0px;
+			position: relative;
+			/* margin-left: -500px; */
+		}
+
+		nav.navbar.navbar-up ul.navbar-nav.ml-auto {
+			/*nav-bar-items background-color: #575756*/
+			background-color: #575756;
+			height: 35px;
+			max-height: 35px;
+			margin-bottom: 0px;
+			padding-bottom: 0px;
+		}
+
+		nav.navbar.navbar-up li.nav-item:hover {
+			background-color: #1d1d1b;
+		}
+
+		.navbar-dark .navbar-nav .nav-link:hover {
+			color: white;
+		}
+
+		nav.navbar.navbar-up a.nav-link {
+			color: white;
+			font-weight: 500;
+			font-size: 13px;
+			font-family: OpenSans;
+		}
+
+		nav.navbar.navbar-up li.nav-item {
+			padding-left: 8px;
+			padding-right: 8px;
+		}
+
+		nav.navbar.navbar-up li.nav-item.nav-item-bordered {
+			border-left: #3c3c3b 2px solid;
+			padding-left: 2px;
+			padding-right: 2px;
+		}
+
+
+		nav.navbar.navbar-down ul.navbar-nav.ml-auto {
+			/*nav-bar-items background-color: #575756*/
+			/*background-color: #575756;*/
+			height: 35px;
+			max-height: 35px;
+			margin-bottom: 0px;
+			padding-bottom: 0px;
+		}
+		
+
+		nav.navbar.navbar-down a.nav-link:hover {
+			/*background-color: #1d1d1b;*/
+			color: black;
+		}
+
+		nav.navbar.navbar-down a.nav-link {
+			color: #00b9ee;
+			font-weight: 500;
+			font-size: 12px;
+			font-family: OpenSans;
+		}
+
+		nav.navbar.navbar-down li.nav-item.nav-item-bordered {
+			border-left: #3c3c3b 2px solid;
+		}
+		/********* TEST ***********/
+		/*Down nav*/
+		.navbar-doublerow .navbar-down{
+			height: 20px;
+		}
+		.navbar-doublerow .navbar-down ul>li>a{
+			/*Menu items*/
+			font-size: 15px;
+			color: #28b8ce;
+		}
+		.navbar-doublerow .navbar-down ul>li>a:hover{
+			/*menu hover*/
+			border-bottom: 1px solid #60B078;
+			color: #60B078;
+		}
+
+	</style>
+
+</head>
+
+<body>
+	<!-- Navigation -->
+	<nav class="navbar navbar-up navbar-expand-lg navbar-dark bg-dark fixed-top">
+		<div class="container">
+			<a class="navbar-brand" href="#"><img src="img/aba logo.png" id="top-logo"></a>
+			<a class="navbar-brand navbar-Profile" href="#">Company Profile</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item active">
+						<a class="nav-link" href="#">PROFİL
+							<span class="sr-only">(current)</span>
+						</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">ÜRÜNLER</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">DESTEK</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">İLETİŞİM</a>
+					</li>
+					<li class="nav-item nav-item-bordered nav-item-lang">
+						<a class="nav-link" href="#">TR</a>
+					</li>
+					<li class="nav-item nav-item-bordered nav-item-search">
+						<a class="nav-link" href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
+					</li>
+					<li class="nav-item nav-item-bordered nav-item-menu">
+						<a class="nav-link" href="#"><i class="fa fa-bars fa-2" aria-hidden="true"></i></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<!-- down nav -->
+	<nav class="navbar navbar-down navbar-expand-lg">
+		<div class="container">
+			<div class="flex-container pull-right">
+				<ul class="nav navbar-nav ml-auto flex-item hidden-xs pull-right">
+					<li class="nav-item"><a  class="nav-link" href="#">Hakkımızda</a></li>
+					<li class="nav-item"><a  class="nav-link" href="#">Ekip</a></li>
+					<li class="nav-item"><a  class="nav-link" href="#">Markalarımız</a></li>
+					<li class="nav-item"><a  class="nav-link" href="#">Kalite Politamız</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<!-- Page Content -->
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h1 class="mt-5">A Bootstrap 4 Starter Template</h1>
+				<p class="lead">Complete with pre-defined file paths and responsive navigation!</p>
+				<ul class="list-unstyled">
+					<li>Bootstrap 4.0.0-beta</li>
+					<li>jQuery 3.2.1</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<!-- Bootstrap core JavaScript -->
+	<script src="vendor/jquery/jquery.min.js"></script>
+	<script src="vendor/popper/popper.min.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
