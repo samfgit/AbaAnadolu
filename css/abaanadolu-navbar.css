@@ -29,7 +29,7 @@ body {
 }
 .container {
 
-	max-width: 1300px;
+	/*max-width: 1300px;*/
 }
 .body-cont {
 	/*margin-top: 118px;*/
@@ -56,6 +56,9 @@ img#top-logo{
 	background-color: #9c1006;
 	height: 50px;
 	width: 80px;
+}
+.navbar-brand.navbar-Profile:hover{
+	/*background-color: #a04942;*/
 }
 
 /* Navbar Styling */

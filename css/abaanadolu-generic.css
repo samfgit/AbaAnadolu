@@ -1,0 +1,32 @@
+.container.no-pad-container{
+	padding-left: 0px!important;
+	padding-right: 0px!important;	
+}
+.fa-hidden{
+	display: none!important;
+}
+
+.fa-green-color{
+	color: #80ba26!important;
+}
+
+.fa-facebook-color{
+	color: #3B5998!important;
+}
+
+.fa-twitter-color{
+	color:#1DA1F2!important;
+}
+
+.fa-youtube-color{
+	color:  #DB4437!important;
+}
+
+.img-full{
+	width: 100%;
+}
+
+.centered{
+	margin-left: auto;
+	margin-right: auto;
+}
