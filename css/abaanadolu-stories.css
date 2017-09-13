@@ -35,6 +35,9 @@
 	background-color: #a53d94;
 	border: #8b3e7e 1px solid;
 }
+.story-link:hover{
+	background-color:  #8b3e7e;
+}
 
 a.story-link {
 	color: white;

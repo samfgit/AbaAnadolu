@@ -8,7 +8,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>Bare - Start Bootstrap Template</title>
+	<title>AbaAnadolu</title>
 	
 	<style>
 		@font-face { font-family: OpenSans; src: url('vendor/fonts/OpenSans-Regular.ttf'); } 
@@ -20,16 +20,53 @@
 	
 	<!-- Font Awesome -->
 	<link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
+	
+	<!-- slick-Slides -->
+	<link rel="stylesheet" type="text/css" href="vendor/slick/slick.css"/>
+	<!-- slick-theme -->
+	<link rel="stylesheet" type="text/css" href="vendor/slick/slick-theme.css"/>
 
 	<!-- Custom styles for this template -->
 	<link rel="stylesheet" href="css/abaanadolu-generic.css">
 	<link rel="stylesheet" href="css/abaanadolu-navbar.css">
+	<link rel="stylesheet" href="css/slider.css">
 	<link rel="stylesheet" href="css/abaanadolu-stories.css">
 	<link rel="stylesheet" href="css/abaanadolu-footer.css">
 
 	<!-- Custom styles for this template -->
 	<style>
 		/********* TEST ***********/
+		.single-item .slider-img div.slide-header{
+			position: relative;
+			left: 100px;
+			top: 50px;
+		}
+		.single-item .slider-img div.slide-header h1{
+			cursor: default;
+			font-family: OpenSans-SemiBold;
+			font-size: 40px;
+			line-height: 1.38;
+		}
+		.single-item .slider-img div.slide-header h4{
+			cursor: default;
+			font-family: OpenSans;
+			font-size: 20px;
+			/*line-height: 1.38;*/
+		}
+
+		.single-item .slider-img div.slide-header span.slide-text-style-1{
+			background-color: rgba(255, 238, 0, 0.7);
+		}
+
+		.single-item .slider-img div.slide-header span.slide-text-style-2{
+			background-color: rgba(86, 183, 143, 0.7);
+		}
+		.single-item .slider-img div.slide-header span.slide-text-style-3{
+			background-color: rgba(246, 177, 174, 0.7);
+		}
+		.single-item .slider-img div.slide-header span.slide-text-style-4{
+			background-color: rgba(255, 238, 0, 0.7);
+		}
 
 	</style>
 
@@ -92,8 +129,72 @@
 	<div class="container">
 		<div class="row">
 			<!-- Image Slider -->
-			<div class="col-lg-12 slider-place-holder">
+			<div class="col-lg-12 slider-container">
 				<!-- <img class="slider-img img-full" src="img/slide-img-1.png"> -->
+				<div class="single-item">
+					<div class="slider-img" style="background-image: url('img/slide-img-1.png'); background-position: bottom left; background-size: cover " >
+						<div class="slide-header">
+							<h1> 
+								<span class="slide-text-style-1"> 
+									En değerli <br> 
+									hazinemiz markalarımız...
+								</span>
+							</h1>
+							<h4> 
+								<span class="slide-text-style-1"> 
+									Doğruluktan şaşmayanlan için yeni bir önerimiz var.
+								</span>
+							</h4>
+						</div>
+					</div>
+					<div class="slider-img" style=" background-image: url('img/slide-img-2.jpg');					background-position: top left; background-size: cover;" >
+						<div class="slide-header">
+							<h1> 
+								<span class="slide-text-style-2"> 
+									CCT ile <br>
+									temiz toplum oluşumu...
+								</span>
+							</h1>
+							<h4> 
+								<span class="slide-text-style-2"> 
+									Doğruluktan şaşmayanlan için yeni bir önerimiz var.
+								</span>
+							</h4>
+						</div>
+					</div>
+					<div class="slider-img" style=" background-image: url('img/slide-img-3.jpg');background-position: center left; background-size: cover;" >
+						<div class="slide-header">
+							<h1> 
+								<span class="slide-text-style-3"> 
+									Bilgiye anında, <br>
+									kolay ve hızlı erişim...
+								</span>
+							</h1>
+							<h4> 
+								<span class="slide-text-style-3"> 
+									Doğruluktan şaşmayanlan için yeni bir önerimiz var.
+								</span>
+							</h4>
+						</div>
+					</div>
+					<div class="slider-img" style=" background-image: url('img/slide-img-4.jpg');background-position: top left; background-size: cover;" >
+						<div class="slide-header">
+							<h1> 
+								<span class="slide-text-style-4"> 
+									Doğruluk <br>
+									en değerli hazinedir...
+								</span>
+							</h1>
+							<h4> 
+								<span class="slide-text-style-4"> 
+									Doğruluktan şaşmayanlan için yeni bir önerimiz var.
+								</span>
+							</h4>
+						</div>
+					</div>
+					<!-- <img class="slider-img" src="img/buttom-img.png" >
+					<img class="slider-img" src="img/buttom-img.png" > -->
+				</div>
 			</div>
 
 			<!-- Stories -->
@@ -103,7 +204,7 @@
 						<img class="story-img" src="img/story-ph.png" >
 						<div class="story-body">
 							<h3 class="story-head">Doğruluk: Benim en kıymetli erdemim</h3>
-							<p class="story-text">uspendisse a arcu sem, nec fertkln pytum urna. Vestibulum et lecgmlmem mea rmatus non dui vestibulum tristll elak amlüique sed tum urna. Vestibulum et lecgmlmem mea rmatus</p>
+							<p class="story-text">Ben de gözlemleyip araştırmak, yeni ufuklara hazır olmak istiyorum. Yarınlara hazır olmam gerek. Güçlü ve üretken olmam gerek. Üstlendiği misyonun verdiği enerji ile tüm insanlığa fayda sağlamak ve yeni vizyonlar keşfetmem gerek. İşte bu benim varlık sebebim.</p>
 							<a class="story-link pull-right" href="">
 								<i class="fa fa-play fa-green-color" aria-hidden="true"></i>&ensp;LEARN MORE
 							</a>
@@ -113,7 +214,7 @@
 						<img class="story-img" src="img/story-ph-2.png" >
 						<div class="story-body">
 							<h3 class="story-head">AC-QR Yeni nesil karekod sistemleri</h3>
-							<p class="story-text">uspendisse a arcu sem, nec fertkln pytum urna. Vestibulum et lecgmlmem mea rmatus non dui vestibulum tristll elak amlüique sed tum urna. Vestibulum et lecgmlmem mea rmatus</p>
+							<p class="story-text">Zaten binlerce soru işareti var hayatımızda. Bir soru işareti daha mı? <br> AC-QR karekod sistemi hayatımızdaki birçok soru işaretini kendi varlığı içinde yok eden bir sistem. </p>
 							<a class="story-link pull-right" href="">
 								<i class="fa fa-play fa-green-color" aria-hidden="true"></i>&ensp;LEARN MORE
 							</a>
@@ -123,7 +224,7 @@
 						<img class="story-img" src="img/story-ph-3.png" >
 						<div class="story-body">
 							<h3 class="story-head">Üstün CTT  teknolojilerine genel bir bakış</h3>
-							<p class="story-text">uspendisse a arcu sem, nec fertkln pytum urna. Vestibulum et lecgmlmem mea rmatus non dui vestibulum tristll elak amlüique sed tum urna. Vestibulum et lecgmlmem mea rmatus</p>
+							<p class="story-text">“Sahtecilikle mücadele teknolojisi CCT” her an, her yerde en üst düzey belge güvenliği ve doğrulaması sağlayan; özel kodlama teknikleri, bulut bilişim ve iletişim teknolojileri alanındaki güncel metotları kullanan patentli bir yöntemdir.</p>
 							<a class="story-link pull-right" href="">
 								<i class="fa fa-play fa-green-color" aria-hidden="true"></i>&ensp;LEARN MORE
 							</a>
@@ -133,7 +234,7 @@
 						<img class="story-img" src="img/story-ph-4.png" >
 						<div class="story-body">
 							<h3 class="story-head">Benzersiz ve kopyalanamaz özelliğimiz</h3>
-							<p class="story-text">uspendisse a arcu sem, nec fertkln pytum urna. Vestibulum et lecgmlmem mea rmatus non dui vestibulum tristll elak amlüique sed tum urna. Vestibulum et lecgmlmem mea rmatus</p>
+							<p class="story-text">AC-QR Sistemini herkes kolaylıkla kullanabilir. Akıllı telefonunuzda internet erişimi olmalıdır. Kullanımı ve yazılımı oldukça basit ve efektiftir. Kullanım tamamen ve sonsuza kadar ücretsizdir. Her yerde ve zamanda koşulsuz ve sınırsız olarak erişebilirsiniz.</p>
 							<a class="story-link pull-right" href="">
 								<i class="fa fa-play fa-green-color" aria-hidden="true"></i>&ensp;LEARN MORE
 							</a>
@@ -154,7 +255,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<!-- Footer Content -->
 	<div class="footer container-fluid">
 		<div class="row">
@@ -165,7 +266,7 @@
 					<i class="fa fa-angle-down fa-hidden" aria-hidden="true"></i>
 				</div>
 			</div>
-			
+
 			<!-- Footer Site Map -->
 			<div class="container-fluid">
 				<div class="row">
@@ -189,22 +290,13 @@
 												<a href="#">> Hassasiyetlerimiz</a>
 											</li>
 											<li>
-												<a href="#">> Sosyal Sorumluluklarımız</a>
-											</li>
-											<li>
 												<a href="#">> Markalarımız</a>
 											</li>
 											<li>
 												<a href="#">> Belgelerimiz</a>
 											</li>
 											<li>
-												<a href="#">> Gizlilik Anlaşması</a>
-											</li>
-											<li>
 												<a href="#">> Kalite Politikamız</a>
-											</li>
-											<li>
-												<a href="#">> Ekip Ruhu</a>
 											</li>
 										</ul>
 									</section>
@@ -251,18 +343,6 @@
 												<a href="#">> Destek Hizmetleri</a>
 											</li>
 											<li>
-												<a href="#">> Eğitim Hizmetleri</a>
-											</li>
-											<li>
-												<a href="#">> Donanım Destek</a>
-											</li>
-											<li>
-												<a href="#">> Yazılım Destek</a>
-											</li>
-											<li>
-												<a href="#">> Download Merkezi</a>
-											</li>
-											<li>
 												<a href="#">> Uygulama Merkezi</a>
 											</li>
 										</ul>
@@ -272,18 +352,6 @@
 									<section>
 										<h6>İLETİŞİM</h6>
 										<ul>
-											<li>
-												<a href="#">> Konum</a>
-											</li>
-											<li>
-												<a href="#">> Bize Yazın</a>
-											</li>
-											<li>
-												<a href="#">> Türkiye Personeli</a>
-											</li>
-											<li>
-												<a href="#">> Basın Merkezi</a>
-											</li>
 											<li>
 												<a href="#">> Kariyer (İK)</a>
 											</li>
@@ -384,6 +452,9 @@
 	<script src="vendor/jquery/jquery.min.js"></script>
 	<script src="vendor/popper/popper.min.js"></script>
 	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+	<!-- Sick Slides -->
+	<script type="text/javascript" src="vendor/slick/slick.min.js"></script>
 
 	<!-- AbaAnaolu JavaScript -->
 	<script src="js/abaanadolu.js"></script>

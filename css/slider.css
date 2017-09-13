@@ -1,0 +1,122 @@
+.slider-container{
+	padding: 0px;
+}
+
+.single-item.slick-initialized.slick-slider{
+	/*max-height: 600px;*/
+}
+.slider-img {
+	/*max-height: 600px;*/
+}
+.slider-img.slick-slide{
+	height: 530px!important;
+}
+.slick-arrow{
+	z-index: 100;
+}
+
+.slick-prev, .slick-next {
+	font-size: 0;
+	line-height: 0;
+	position: absolute;
+	top: 50%;
+	display: block;
+	width: 30px;
+	height: 30px;
+	padding: 0;
+	-webkit-transform: translate(0, -50%);
+	-ms-transform: translate(0, -50%);
+	transform: translate(0, -50%);
+	cursor: pointer;
+	/*color: transparent;*/
+	border: none;
+	outline: none;
+	background: #1d1d1b;
+}
+.slick-prev:focus, .slick-next:focus {
+	background: #1d1d1b;
+	color: transparent;
+}
+.slick-prev:hover, .slick-next:hover {
+	background: black;
+	color: white;
+}
+.slick-next {
+	right: 0px;
+}
+
+.slick-prev {
+	left: 0px;
+}
+.slick-prev:before, .slick-next:before {
+	color: black;
+}
+.slick-next::before {
+	content: ">";
+}
+.slick-prev::before {
+	content: "<";
+}
+
+.slick-prev:before, .slick-next:before {
+	font-family: 'OpenSans';
+	font-size: 25px;
+	font-family:monospace;
+	font-weight: 500;
+	line-height: 0.6;
+	opacity: .75;
+	color: white;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.slick-dots {
+	bottom: -25px;
+	display: block;
+	width: 100%;
+	padding: 0;
+	list-style: none;
+	text-align: right;
+}
+
+/*-------------------------------------------------*/
+.slick-dots li button::before {
+	content: "";
+}
+.slick-dots li {
+	position: relative;
+	display: inline-block;
+	width: 14px;
+	height: 7px;
+	margin: 0px;
+	margin-left: 2px;
+	padding: 0;
+	cursor: pointer;
+}
+.slick-dots li button {
+	line-height: 0;
+	font-size: 0px;
+	display: block;
+	width: 14px;
+	height: 7px;
+	/* width: 61px; */
+	/* cursor: pointer; */
+	/* padding: 5px; */
+	cursor: pointer;
+	border: 0px;
+	outline: none;
+	background: #818281;
+}
+.slick-dots li.slick-active button {
+	background: #009943;
+}
+
+.slick-dots {
+	bottom: -15px;
+	display: block;
+	width: 100%;
+	padding: 0;
+	list-style: none;
+	/* list-style: none; */
+	text-align: right;
+}

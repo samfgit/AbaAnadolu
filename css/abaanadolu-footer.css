@@ -160,6 +160,9 @@
 	color: #9b9b9a;
 	display:inline-block;
 }
+.footer .footer-info-item .fa:hover{
+	color: #bbbbbb;
+}
 
 .footer .footer-info-item p{
 	padding: 5px;
